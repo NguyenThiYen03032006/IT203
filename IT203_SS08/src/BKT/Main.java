@@ -1,13 +1,9 @@
 package BKT;
-
 import java.util.Scanner;
-
 public class Main {
-
     static Student[] listStudent = new Student[100];
     static int count = 0;
     static Scanner sc = new Scanner(System.in);
-
     public static void main(String[] args) {
         int choice;
         do {
@@ -129,3 +125,4 @@ public class Main {
         }
     }
 }
+
