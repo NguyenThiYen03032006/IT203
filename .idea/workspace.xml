@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bef34e0-15d2-4169-98db-5af73fb5c0e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IT203_SS10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IColorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IMoveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS01/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS01/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS01/SS01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS01/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS02/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS02/SS02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS02/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS03/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS03/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS03/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS03/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS03/SS03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS03/Swimmable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS04/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS04/SS04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS05/BonusCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS05/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS05/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS05/OfficeStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS05/SS05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS06/SS06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserAbstract.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3A1qIJFRw9iaNLFr6efKmcd5MLX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SS01.executor": "Run",
+    "Application.SS02.executor": "Run",
+    "Application.SS03.executor": "Run",
+    "Application.SS04.executor": "Run",
+    "Application.SS05.executor": "Run",
+    "Application.SS06.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Admin/Documents/IT203_SS10/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bef34e0-15d2-4169-98db-5af73fb5c0e3" name="Changes" comment="" />
+      <created>1771770343108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771770343108</updated>
+      <workItem from="1771770347223" duration="1393000" />
+      <workItem from="1771851271179" duration="4607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
