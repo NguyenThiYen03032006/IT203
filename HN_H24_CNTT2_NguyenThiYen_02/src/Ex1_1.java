@@ -15,10 +15,13 @@ public class Ex1_1 {
             if(Character.isLetter(c)|| c==' '){
                 if(i>0) {
                     if (str.charAt(i - 1) == ' ') {
-                        if (i > 1 && str.charAt(i - 2) == ' ') {
+                        if (i>1 &&str.charAt(i - 2) != ' '&& str.charAt(i-1)==' ') {
                             continue;
+
+                        }else{
+                            str1 += Character.toUpperCase(c);
                         }
-                        str1 += Character.toUpperCase(c);
+
 
                     }else {
                         str1 += c;
